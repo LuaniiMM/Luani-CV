@@ -1,0 +1,389 @@
+{
+  "picture": {
+    "hidden": false,
+    "fit": "cover",
+    "url": "",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Luani Rafael Muñoz Martinez",
+    "headline": "Forward Deployed Engineer",
+    "email": "Luani8085@gmail.com",
+    "phone": "4433771696",
+    "location": "Morelia, Michoacán, MX",
+    "website": {
+      "url": "",
+      "label": ""
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "",
+    "icon": "article",
+    "columns": 1,
+    "hidden": false,
+    "showHeading": true,
+    "keepTogether": false,
+    "startOnNewPage": false,
+    "content": "<p>Computer Engineering student with hands-on experience in software development, cloud deployment, server management, and Artificial Intelligence solutions such as autonomous agents. Proactive, fast learner, and skilled at adapting to dynamic environments to solve complex technical problems.</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "icon": "messenger-logo",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019e8495-af19-7657-8274-8287b13484f9",
+          "hidden": false,
+          "icon": "github-logo",
+          "iconColor": "",
+          "network": "GitHub",
+          "username": "LuaniiMM",
+          "website": {
+            "url": "https://github.com/LuaniiMM",
+            "label": "LuaniiMM",
+            "inlineLink": false
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "",
+      "icon": "briefcase",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019e8495-af18-7398-9d09-fe5103f088d4",
+          "hidden": false,
+          "company": "TecHardcore LLC",
+          "position": "Forward Deployed Engineer",
+          "location": "",
+          "period": "March 2026 – Present",
+          "dates": {
+            "start": "2026-03",
+            "end": null,
+            "present": true
+          },
+          "website": {
+            "url": "https://techardcore.com/",
+            "label": "https://techardcore.com/",
+            "inlineLink": false
+          },
+          "description": "<p>Performing technical tasks focused on system development using Rust, alongside infrastructure management and deployment using Linux environments, Docker containers, and virtual servers (Droplets) on DigitalOcean.</p><ul><li>Actively working on and making core technical contributions to ZeroClaw.</li><li>Implemented security systems by designing secure, immutable container images with strict Role-Based Access Control (RBAC).</li><li>Developed a custom VS Code extension to seamlessly integrate the organization's proprietary AI into the developer workflow.</li><li>Managed domain configuration, routing, and DNS records for organizational infrastructure.</li></ul>",
+          "roles": []
+        },
+        {
+          "id": "019e8495-af18-7398-9d0a-002eb5295f52",
+          "hidden": false,
+          "company": "McDonald's",
+          "position": "General Crew Member",
+          "location": "",
+          "period": "April 2025 – December 2025",
+          "dates": {
+            "start": "2025-04",
+            "end": "2025-12",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p>Provided customer service, worked effectively under pressure in fast-paced environments, and maintained company operational standards.</p>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "icon": "graduation-cap",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019e8495-af19-7657-8274-5dfca841712d",
+          "hidden": false,
+          "school": "Universidad Michoacana de San Nicolás de Hidalgo (UMSNH)",
+          "degree": "Faculty of Electrical Engineering in Computer Engineering",
+          "area": "Computer Engineering",
+          "grade": "",
+          "location": "",
+          "period": "August 2022 – December 2027",
+          "dates": {
+            "start": "2022-08",
+            "end": "2027-12",
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "",
+      "icon": "code-simple",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "skills": {
+      "title": "",
+      "icon": "compass-tool",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019e8495-af19-7657-8274-6e887f5611d7",
+          "hidden": false,
+          "icon": "star",
+          "iconColor": "",
+          "name": "Programming Languages",
+          "proficiency": "Intermediate",
+          "level": 3,
+          "keywords": [
+            "Python",
+            "Java (OOP)",
+            "C"
+          ]
+        },
+        {
+          "id": "019e8495-af19-7657-8274-6e887f5611d8",
+          "hidden": false,
+          "icon": "star",
+          "iconColor": "",
+          "name": "Programming Languages",
+          "proficiency": "Basic",
+          "level": 1,
+          "keywords": [
+            "Rust"
+          ]
+        },
+        {
+          "id": "019e8495-af19-7657-8274-72d8b6319cbc",
+          "hidden": false,
+          "icon": "star",
+          "iconColor": "",
+          "name": "DevOps & Security",
+          "proficiency": "Intermediate",
+          "level": 3,
+          "keywords": [
+            "DevOps",
+            "DevOps Security",
+            "Security Systems Implementation",
+            "RBAC (Role-Based Access Control)",
+            "Linux",
+            "Docker",
+            "DigitalOcean (Droplets)",
+            "Server Management",
+            "DNS Routing"
+          ]
+        },
+        {
+          "id": "019e8495-af19-7657-8274-74ba6be8934a",
+          "hidden": false,
+          "icon": "star",
+          "iconColor": "",
+          "name": "Artificial Intelligence & Hardware",
+          "proficiency": "Intermediate",
+          "level": 3,
+          "keywords": [
+            "NVIDIA GPU Management & Provisioning (H100, RTX 6000)",
+            "AI Agents Management",
+            "AI Voice Assignment & Configuration",
+            "ComfyUI Workflows",
+            "AI IDE Integration (VS Code)"
+          ]
+        }
+      ],
+      "keywordLayout": "inline",
+      "layout": "default"
+    },
+    "languages": {
+      "title": "",
+      "icon": "translate",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019e8495-af19-7657-8274-7b93cd1ae7ea",
+          "hidden": false,
+          "language": "Spanish",
+          "fluency": "Native",
+          "level": 5
+        },
+        {
+          "id": "019e8495-af19-7657-8274-7f3a4710d20a",
+          "hidden": false,
+          "language": "English",
+          "fluency": "Basic",
+          "level": 2
+        }
+      ]
+    },
+    "interests": {
+      "title": "",
+      "icon": "football",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "awards": {
+      "title": "",
+      "icon": "trophy",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "icon": "certificate",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "icon": "books",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "",
+      "icon": "hand-heart",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "icon": "phone",
+      "columns": 1,
+      "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "chikorita",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "profiles",
+            "summary",
+            "education",
+            "experience",
+            "projects",
+            "volunteer",
+            "references"
+          ],
+          "sidebar": [
+            "skills",
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 12,
+      "format": "a4",
+      "locale": "en-US",
+      "dateFormat": "long",
+      "hideLinkUnderline": false,
+      "hideIcons": false,
+      "hideSectionIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(220, 38, 38, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "400",
+          "500"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "",
+    "styleRules": []
+  }
+}
